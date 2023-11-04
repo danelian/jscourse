@@ -9,4 +9,3 @@ function summ(a, b) {
 
 let res = summ(15, 10);
 console.log(res);
-
